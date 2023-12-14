@@ -9,6 +9,7 @@ This is a problem that occurs regularly and the hope is to identify generic miti
 # Incidents
 | Date | Organization impacted | References | Notes |
 | ---- | --------------------- | ---------- | ----- |
+| December 13, 2023 | Ubiquiti | [reddit](https://www.reddit.com/r/Ubiquiti/comments/18hgpw1/security_problem/?share_id=yUmL6IOwgoKmgd3idJqk9) | |
 | November 30, 2023 | Ticketmaster | [reddit](https://old.reddit.com/r/singapore/comments/1880hmj/ticketmaster_bug_is_allowing_users_to_access/) | |
 | September 8, 2023 | Wyze cameras | [reddit](https://www.reddit.com/r/wyzecam/comments/16dlse8/seeing_someone_elses_webcam_feed/) | | 
 | March 21, 2023 | ChatGPT | [reddit](https://www.reddit.com/r/ChatGPT/comments/11wkw5z/has_chatgpt_or_me_been_hacked_ive_never_had_these/) | |
