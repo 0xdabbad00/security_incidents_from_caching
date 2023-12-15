@@ -18,7 +18,7 @@ This is a problem that occurs regularly and the hope is to identify generic miti
 | October 12, 2022 | savelife.in.ua | [post-mortem](https://medium.com/@gleb.pushkov/how-to-prevent-data-leakage-when-using-aws-cloudfront-to-cache-api-requests-5a179bb04bd5) | Result of Cloudfront request collapsing |
 | May 27, 2021 | Klarna | [post-mortem](https://www.klarna.com/us/blog/may-27-incident-report/) | |
 | March 20, 2021 | Zulip | [post-mortem](https://blog.zulip.com/2021/03/20/zulip-cloud-security-incident/) | Result of Cloudfront request collapsing |
-| March 8, 2021 | Github [post-mortem](https://github.blog/2021-03-18-how-we-found-and-fixed-a-rare-race-condition-in-our-session-handling/) | This was a thread safety problem, but the result was similar |
+| March 8, 2021 | Github | [post-mortem](https://github.blog/2021-03-18-how-we-found-and-fixed-a-rare-race-condition-in-our-session-handling/) | This was a thread safety problem, but the result was similar |
 | April 2020 | Italian Social Security (INPS) | [news article](https://www-garanteprivacy-it.translate.goog/home/docweb/-/docweb-display/docweb/9344061?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp) | |
 | December 25, 2015 | Steam | [post-mortem](https://store.steampowered.com/oldnews/19852) | Cache change was made in response to a DDoS, which caused a different problem |
 | Jan 29, 2015 | Apple iTunes | [news article](https://appleinsider.com/articles/15/01/29/itunes-connect-bug-logs-developers-into-random-apple-account-displays-wrong-apps) | Unclear if this was a caching issue, but the symptoms look similar |
