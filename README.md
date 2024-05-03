@@ -16,7 +16,7 @@ This is a problem that occurs regularly and the hope is to identify generic miti
 | March 21, 2023 | ChatGPT | [reddit](https://www.reddit.com/r/ChatGPT/comments/11wkw5z/has_chatgpt_or_me_been_hacked_ive_never_had_these/) | |
 | March 7, 2023 | Loom | [post-mortem](https://www.loom.com/blog/march-7-incident-update) | |
 | February, 2023 | Scandinavian Airlines (SAS) | [news article](https://www.bleepingcomputer.com/news/security/scandinavian-airlines-says-cyberattack-caused-passenger-data-leak/amp/) | |
-| October 12, 2022 | savelife.in.ua | [post-mortem](https://medium.com/@gleb.pushkov/how-to-prevent-data-leakage-when-using-aws-cloudfront-to-cache-api-requests-5a179bb04bd5) | Result of Cloudfront request collapsing |
+| October 12, 2022 | Unknown | [post-mortem](https://medium.com/@gleb.pushkov/how-to-prevent-data-leakage-when-using-aws-cloudfront-to-cache-api-requests-5a179bb04bd5) | Result of Cloudfront request collapsing |
 | May 27, 2021 | Klarna | [post-mortem](https://www.klarna.com/us/blog/may-27-incident-report/) | |
 | March 20, 2021 | Zulip | [post-mortem](https://blog.zulip.com/2021/03/20/zulip-cloud-security-incident/) | Result of Cloudfront request collapsing |
 | March 8, 2021 | Github | [post-mortem](https://github.blog/2021-03-18-how-we-found-and-fixed-a-rare-race-condition-in-our-session-handling/) | This was a thread safety problem, but the result was similar |
