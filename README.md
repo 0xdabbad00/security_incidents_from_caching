@@ -14,7 +14,7 @@ This is a problem that occurs regularly and the hope is to identify generic miti
 | November 30, 2023 | Ticketmaster | [reddit](https://old.reddit.com/r/singapore/comments/1880hmj/ticketmaster_bug_is_allowing_users_to_access/) | |
 | September 8, 2023 | Wyze cameras | [reddit](https://www.reddit.com/r/wyzecam/comments/16dlse8/seeing_someone_elses_webcam_feed/) | | 
 | March 21, 2023 | ChatGPT | [reddit](https://www.reddit.com/r/ChatGPT/comments/11wkw5z/has_chatgpt_or_me_been_hacked_ive_never_had_these/) | |
-| March 7, 2023 | Loom | [post-mortem](https://www.loom.com/blog/march-7-incident-update) | |
+| March 7, 2023 | Loom | [post-mortem](https://www.loom.com/blog/march-7-incident-update) [presentation](https://www.youtube.com/watch?v=a3a6MypvDSM&t=845s) | |
 | February, 2023 | Scandinavian Airlines (SAS) | [news article](https://www.bleepingcomputer.com/news/security/scandinavian-airlines-says-cyberattack-caused-passenger-data-leak/amp/) | |
 | October 12, 2022 | Unknown | [post-mortem](https://medium.com/@gleb.pushkov/how-to-prevent-data-leakage-when-using-aws-cloudfront-to-cache-api-requests-5a179bb04bd5) | Result of Cloudfront request collapsing |
 | May 27, 2021 | Klarna | [post-mortem](https://www.klarna.com/us/blog/may-27-incident-report/) | |
