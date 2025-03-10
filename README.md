@@ -9,6 +9,7 @@ This is a problem that occurs regularly and the hope is to identify generic miti
 # Incidents
 | Date | Organization impacted | References | Notes |
 | ---- | --------------------- | ---------- | ----- |
+| March 9, 2025 | DNB |https://e24.no/boers-og-finans/i/nyJgQQ/dnb-og-sbanken-aksjehandelen-er-i-gang-igjen | |
 | February 11, 2025 | Nordnet | [News article](https://swedenherald.com/article/nordnet-hit-by-security-problem-customers-could-see-others-accounts)| |
 | May 1, 2024 | Qantas | [reddit](https://www.reddit.com/r/QantasFrequentFlyer/comments/1ch63j0/why_do_i_have_random_peoples_flight_info/) [Company statement](https://www.qantasnewsroom.com.au/qantas-responds/statement-on-qantas-app-issue/)| |
 | February 16, 2024 | Wyze cameras | [reddit](https://www.reddit.com/r/wyzecam/comments/1asa95n/service_advisory_2162024/) | |
