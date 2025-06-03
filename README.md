@@ -1,7 +1,7 @@
 # Security Incidents From Caching
 Collection of incidents potentially resulting from web caching issues.  This is focused on the problem that results in users seeing the content of other users, when that problem appears as a direct result of a CDN or related web caching configuration change, noticable by many users. When this happens, numerous users will immediately report seeing the content of other users.  This will not record those incidents that result from activity by an attacker or bug bounty researcher, as it is believed those may be resulting from a different problem.  It is possible some of these incidents could be due to issues not related to web caching.
 
-A common cause for some of these is Cloudfront request collapsing. Read about that feature [here](https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/RequestAndResponseBehaviorCustomOrigin.html#request-custom-traffic-spikes).
+A common cause for some of these is Cloudfront request collapsing. Read about that feature [here](https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/RequestAndResponseBehaviorCustomOrigin.html#request-custom-traffic-spikes) and my discussion of the security risk [here](https://www.wiz.io/blog/preventing-risk-of-request-collapsing-in-web-caching).
 
 ## Why does this repo exist?
 This is a problem that occurs regularly and the hope is to identify generic mitigation strategies to detect and avoid it from happening in the future.  If you know of good ways of identifying this problem before it gets pushed to production, please reach out (file a ticket, message me on twitter at https://twitter.com/0xdabbad00, or email me).
